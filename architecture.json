@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-maximalist-individual-collective",
+  "title": "The Stone's Final Argument",
+  "tagline": "In a Damascus of whispering stones and silent scribes, a daughter must find her own voice as her father's art, and the world around them, threatens to fracture into perfect, unspeakable forms.",
+  "target_words": 78165,
+  "actual_words": 78165,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Perfection",
+    "The Silence Between Words",
+    "Inheritance and Erasure",
+    "The Geometry of Faith and Doubt"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ink's Desperate Tail",
+      "words": 7105
+    },
+    {
+      "ch": 2,
+      "title": "A Vessel Built for Silence",
+      "words": 7105
+    },
+    {
+      "ch": 3,
+      "title": "The Library of Living Willow",
+      "words": 7105
+    },
+    {
+      "ch": 4,
+      "title": "The Flaw in the Glass",
+      "words": 7105
+    },
+    {
+      "ch": 5,
+      "title": "The Compass, Cold and Dead",
+      "words": 7105
+    },
+    {
+      "ch": 6,
+      "title": "A Tooth from the Mountain's Jaw",
+      "words": 7105
+    },
+    {
+      "ch": 7,
+      "title": "The Stone's Final Argument",
+      "words": 7105
+    },
+    {
+      "ch": 8,
+      "title": "The Groan of Tectonic Agony",
+      "words": 7105
+    },
+    {
+      "ch": 9,
+      "title": "The Peace of Failure",
+      "words": 7105
+    },
+    {
+      "ch": 10,
+      "title": "The Desert's Surgical Cold",
+      "words": 7105
+    },
+    {
+      "ch": 11,
+      "title": "A Membrane Over the World's Ear",
+      "words": 7105
+    }
+  ]
+}
